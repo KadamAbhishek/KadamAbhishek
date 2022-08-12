@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KadamAbhishek
 - 👀 I’m interested in ...Learning new Technology related Things. 
-- 🌱 I’m currently learning ... Java, Spring Boot, Microservices
+- 🌱 I’m currently learning ... Java, Spring Boot, Microservices,Angular
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... through Instagram : @_abhishek.kadam
 
